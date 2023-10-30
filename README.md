@@ -1,0 +1,1 @@
+# A quiz app created using HTML, CSS, and JavaScript is a web-based application that allows users to answer a series of questions and receive feedback on their responses.
